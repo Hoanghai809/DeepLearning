@@ -105,7 +105,8 @@ Mô hình CNN (Convolutional Neural Network) hoạt động qua các bước:
 | **conv3** | Đặc trưng phức tạp, độ phân giải thấp, mất cấu trúc không gian |
 
 **Hình ảnh feature map:**
-![Feature maps từ conv1 và conv2](attachment:image.png)
+<img width="866" height="230" alt="image" src="https://github.com/user-attachments/assets/ed6e7157-913c-47c6-8315-1269528c7700" />
+
 
 **Giải thích:**
 - **Tầng đầu:** Học các đặc trưng đơn giản (cạnh, góc, đường viền)
